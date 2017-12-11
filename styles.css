@@ -1,0 +1,24 @@
+body{
+	background-color:#E6e6fa;
+	background-image:url(lavender.jpg);
+	background-repeat:no-repeat;
+}
+#raw1{ 
+	font-size:35px;
+	font-family:Comic Sans MS;
+	color:#FFFFFF;
+	
+}
+table {
+    width: 200%;
+}
+#raw2{
+	font-size:25px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+a.menuLink{
+	color:#ffffff;
+}
+	
+
